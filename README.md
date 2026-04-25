@@ -4,7 +4,8 @@
 
 Watch the MCP Project in action:
 
-![MCP Project Demo](./MCP_Project.mp4)
+<video src="./MCP_Project.mp4" controls="controls" muted="muted" width="100%">
+</video>
 
 ---
 
