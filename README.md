@@ -1,5 +1,13 @@
 # Quick Start Guide
 
+## 🎥 Demo Video
+
+Watch the MCP Project in action:
+
+![MCP Project Demo](./MCP_Project.mp4)
+
+---
+
 ## 🚀 Getting Started in 3 Steps
 
 ### Step 1: Install Dependencies
