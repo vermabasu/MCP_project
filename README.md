@@ -4,7 +4,7 @@
 
 Watch the MCP Project in action:
 
-[![Watch Demo](hhttps://youtu.be/AeEP3tkDG2E)](https://youtu.be/AeEP3tkDG2E)
+[![Watch Demo](https://img.youtube.com/vi/AeEP3tkDG2E/hqdefault.jpg)](https://www.youtube.com/watch?v=AeEP3tkDG2E)
 
 ---
 
