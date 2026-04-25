@@ -4,7 +4,7 @@
 
 Watch the MCP Project in action:
 
-https://github.com/vermabasu/MCP_project/blob/main/MCP_Project.mp4
+[![Watch Demo](hhttps://youtu.be/AeEP3tkDG2E)](https://youtu.be/AeEP3tkDG2E)
 
 ---
 
