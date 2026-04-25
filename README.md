@@ -4,10 +4,10 @@
 
 Watch the MCP Project in action:
 
-<video src="./MCP_Project.mp4" controls="controls" muted="muted" width="50%">
+<video width="100%" controls>
+  <source src="./MCP_Project.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can download the video directly: <a href="./MCP_Project.mp4">MCP_Project.mp4</a> (8.9MB, 3 minutes)
 </video>
-
-![MCP Project Demo](./MCP_Project.mp4)
 
 ---
 
