@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+      "mcp-server": {
+        "command": "uv",
+        "args": [
+          "run",
+          "--with",
+          "mcp[cli]",
+          "mcp",
+          "run",
+          "/Users/basuverma/Desktop/Learn_AgenticAI/mcp-learn/mcp-server-client/mcp-server.py"
+        ]
+      }
+    }
+  }
